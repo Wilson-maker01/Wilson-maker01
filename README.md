@@ -31,4 +31,4 @@ I am passionate about Software Engineering, Cybersecurity, and Machine Learning.
 
 ### 📫 Connect With Me
 - LinkedIn: Coming Soon
-- Email: Your Email Here
+- Email: wilsonsiyaka074@gmail.com
