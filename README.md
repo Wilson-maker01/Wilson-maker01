@@ -5,11 +5,11 @@
 I am passionate about Software Engineering, Cybersecurity, and Machine Learning.
 
 ### 🎯 Career Goals
-- Pursue an MSc in Cybersecurity
+- Pursue an bsc in software engineering
 - Build secure software systems
 - Contribute to open-source projects
 - Develop expertise in network and application security
-
+- pursue an ec-council certificate
 ### 💻 Technical Skills
 - Python
 - JavaScript
